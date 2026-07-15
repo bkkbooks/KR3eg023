@@ -69,6 +69,7 @@ markers:
   - {type: 'tls:seg', offset: 67, content: '', id: KR3eg023_jc_NaN-d9.d2.p12s1}
   - {type: punctuation, offset: 69, content: 、, id: KR3eg023_jc_006-bkkpn25}
   - {type: 'tls:seg', offset: 69, content: '', id: KR3eg023_jc_NaN-d9.d2.p12s2}
+  - {type: substitution, offset: 69, original: 姜, replacement: 薑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16998}}
   - {type: punctuation, offset: 71, content: 。, id: KR3eg023_jc_006-bkkpn26}
   - {type: xml-element, offset: 71, content: '', id: KR3eg023_jc_NaN-d9.d2p12_end, name: p, role: close, attrs: {'xml:id': KR3eg023_jc_NaN-d9.d2p12}}
   - {type: xml-element, offset: 71, content: '', id: KR3eg023_jc_NaN-d9.d2p14, name: p, role: open, attrs: {'xml:id': KR3eg023_jc_NaN-d9.d2p14}}
@@ -1059,6 +1060,7 @@ markers:
   - {type: xml-element, offset: 1234, content: '', id: KR3eg023_jc_NaN-d9.d2p238_end, name: p, role: close, attrs: {'xml:id': KR3eg023_jc_NaN-d9.d2p238}}
   - {type: xml-element, offset: 1234, content: '', id: KR3eg023_jc_NaN-d9.d2p240, name: p, role: open, attrs: {'xml:id': KR3eg023_jc_NaN-d9.d2p240}}
   - {type: 'tls:seg', offset: 1234, content: '', id: KR3eg023_jc_NaN-d9.d2.p240s1}
+  - {type: substitution, offset: 1236, original: 姜, replacement: 薑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16998}}
   - {type: punctuation, offset: 1238, content: 。, id: KR3eg023_jc_006-bkkpn311}
   - {type: xml-element, offset: 1238, content: '', id: KR3eg023_jc_NaN-d9.d2p240_end, name: p, role: close, attrs: {'xml:id': KR3eg023_jc_NaN-d9.d2p240}}
   - {type: xml-element, offset: 1238, content: '', id: KR3eg023_jc_NaN-d9.d2p242, name: p, role: open, attrs: {'xml:id': KR3eg023_jc_NaN-d9.d2p242}}
@@ -1124,6 +1126,7 @@ markers:
   - {type: xml-element, offset: 1322, content: '', id: KR3eg023_jc_NaN-d9.d2p262_end, name: p, role: close, attrs: {'xml:id': KR3eg023_jc_NaN-d9.d2p262}}
   - {type: xml-element, offset: 1322, content: '', id: KR3eg023_jc_NaN-d9.d2p264, name: p, role: open, attrs: {'xml:id': KR3eg023_jc_NaN-d9.d2p264}}
   - {type: 'tls:seg', offset: 1322, content: '', id: KR3eg023_jc_NaN-d9.d2.p264s1}
+  - {type: substitution, offset: 1323, original: 姜, replacement: 薑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16998}}
   - {type: punctuation, offset: 1325, content: 。, id: KR3eg023_jc_006-bkkpn322}
   - {type: xml-element, offset: 1325, content: '', id: KR3eg023_jc_NaN-d9.d2p264_end, name: p, role: close, attrs: {'xml:id': KR3eg023_jc_NaN-d9.d2p264}}
   - {type: xml-element, offset: 1325, content: '', id: KR3eg023_jc_NaN-d9.d2p266, name: p, role: open, attrs: {'xml:id': KR3eg023_jc_NaN-d9.d2p266}}
@@ -1227,6 +1230,7 @@ markers:
   - {type: xml-element, offset: 1441, content: '', id: KR3eg023_jc_NaN-d9.d2p292_end, name: p, role: close, attrs: {'xml:id': KR3eg023_jc_NaN-d9.d2p292}}
   - {type: xml-element, offset: 1441, content: '', id: KR3eg023_jc_NaN-d9.d2p294, name: p, role: open, attrs: {'xml:id': KR3eg023_jc_NaN-d9.d2p294}}
   - {type: 'tls:seg', offset: 1441, content: '', id: KR3eg023_jc_NaN-d9.d2.p294s1}
+  - {type: substitution, offset: 1442, original: 姜, replacement: 薑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16998}}
   - {type: punctuation, offset: 1444, content: 。, id: KR3eg023_jc_006-bkkpn350}
   - {type: xml-element, offset: 1444, content: '', id: KR3eg023_jc_NaN-d9.d2p294_end, name: p, role: close, attrs: {'xml:id': KR3eg023_jc_NaN-d9.d2p294}}
   - {type: xml-element, offset: 1444, content: '', id: KR3eg023_jc_NaN-d9.d2p296, name: p, role: open, attrs: {'xml:id': KR3eg023_jc_NaN-d9.d2p296}}
@@ -1342,6 +1346,7 @@ markers:
   - {type: 'tls:seg', offset: 1590, content: '', id: KR3eg023_jc_NaN-d9.d2.p334s1}
   - {type: 'tls:seg', offset: 1592, content: '', id: KR3eg023_jc_NaN-d9.d2.p334s2}
   - {type: 'tls:seg', offset: 1594, content: '', id: KR3eg023_jc_NaN-d9.d2.p334s3}
+  - {type: substitution, offset: 1596, original: 姜, replacement: 薑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16998}}
   - {type: 'tls:seg', offset: 1597, content: '', id: KR3eg023_jc_NaN-d9.d2.p334s4}
   - {type: xml-element, offset: 1600, content: '', id: KR3eg023_jc_NaN-d9.d2p334_end, name: p, role: close, attrs: {'xml:id': KR3eg023_jc_NaN-d9.d2p334}}
   - {type: xml-element, offset: 1600, content: '', id: KR3eg023_jc_NaN-d9.d2p336, name: p, role: open, attrs: {'xml:id': KR3eg023_jc_NaN-d9.d2p336}}
@@ -1968,6 +1973,7 @@ markers:
   - {type: punctuation, offset: 2334, content: ）, id: KR3eg023_jc_006-bkkpn525}
   - {type: 'tls:seg-end', offset: 2334, content: '', id: KR3eg023_jc_NaN-d9.d2.p480s7_end, seg_type: comm}
   - {type: 'tls:seg', offset: 2334, content: '', id: KR3eg023_jc_NaN-d9.d2.p480s8}
+  - {type: substitution, offset: 2336, original: 姜, replacement: 薑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16998}}
   - {type: punctuation, offset: 2337, content: (, id: KR3eg023_jc_006-bkkpn526}
   - {type: punctuation, offset: 2339, content: ), id: KR3eg023_jc_006-bkkpn527}
   - {type: xml-element, offset: 2339, content: '', id: KR3eg023_jc_NaN-d9.d2p480_end, name: p, role: close, attrs: {'xml:id': KR3eg023_jc_NaN-d9.d2p480}}
@@ -2026,4 +2032,4 @@ markers:
   - {type: 'tls:seg', offset: 2397, content: '', id: KR3eg023_jc_NaN-d9.d2.p492s7}
   - {type: xml-element, offset: 2399, content: '', id: KR3eg023_jc_NaN-d9.d2p492_end, name: p, role: close, attrs: {'xml:id': KR3eg023_jc_NaN-d9.d2p492}}
   back: []
-hash: sha256:110ed77a2841e49c7b0bcc357f6458129286cc161e67c4e9347adac2c1c23eb7
+hash: sha256:8db866107eb47b915730f628c57c7067692829c2f1038cf439ef8a35a6f46664
