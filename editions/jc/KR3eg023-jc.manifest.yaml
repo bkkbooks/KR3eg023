@@ -17,14 +17,14 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 1, filename: KR3eg023_001-jc.yaml, hash: 'sha256:70173e3045152d24452cfa7e1b1045e0dfe55fb7417e792fe3ea589ad7c4a4f5'}
+  - {seq: 1, filename: KR3eg023_001-jc.yaml, hash: 'sha256:87720a37f7efd7b59ede1cfaff9a479bc5824ff7021924bcaa8e52855776651c'}
   - {seq: 2, filename: KR3eg023_002-jc.yaml, hash: 'sha256:00cdf38d6379080ab58d3d734ec48c48989d9e137e7795d7ee299455884566c1'}
   - {seq: 3, filename: KR3eg023_003-jc.yaml, hash: 'sha256:fffe16f47c6492b194c6cf5c8b6f255ebb83ba2372b813ff1d07b16a9c8b4fe7'}
   - {seq: 4, filename: KR3eg023_004-jc.yaml, hash: 'sha256:6346bc97e6fab262ca68b5e737d705d2e9eda05a4bf7330972b39bffb174d72a'}
   - {seq: 5, filename: KR3eg023_005-jc.yaml, hash: 'sha256:fef7a14100c1f73554647303ea144886e776914d457e4fb992d83b8a40af4c41'}
   - {seq: 6, filename: KR3eg023_006-jc.yaml, hash: 'sha256:88dcd8a1acde3cacce419c58d0d6782a4ad9c960343814c00a8b96eb4dcf7fa9'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3eg023_001-jc.markers.yaml, hash: 'sha256:2fbba3b24c9dacfb6ede82169e3d285f7d01edc38822c935999e004c64b0c9c2'}
+  - {seq: 1, role: markers, filename: assets/KR3eg023_001-jc.markers.yaml, hash: 'sha256:30f38d879a786bb71b54df647c7198d749ae9d3e7dd9c5a8be046a240a9e2d46'}
   - {seq: 2, role: markers, filename: assets/KR3eg023_002-jc.markers.yaml, hash: 'sha256:7008c4740e318236797d95caf4584b99e0d98afaf3519817f6e3f19c1e5e81d5'}
   - {seq: 3, role: markers, filename: assets/KR3eg023_003-jc.markers.yaml, hash: 'sha256:a062ec815b77d4ed5e85e0ead11e585f7eec162183006ba7f3eb301c69063ba7'}
   - {seq: 4, role: markers, filename: assets/KR3eg023_004-jc.markers.yaml, hash: 'sha256:1a4010bfd17788adfe9886e661efcb8914861493e6da7d11b95a3b7c975c0bf6'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3eg023_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 507
   label: 序
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3eg023_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 507
     - 776
   label: 序
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3eg023_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 776
     - 1253
   label: 序
@@ -1271,4 +1271,4 @@ table_of_contents:
   label: 諸方
   type: section
   level: 2
-hash: sha256:419858a4659fd0eb0632c49a1757cb8b6f47271e6c57c87db11b9cf07f1ad4cc
+hash: sha256:eddf8567649a7f5e704e63a95f064952e052806a6ebf924777e28a81f78c5967
